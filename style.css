@@ -1,10 +1,10 @@
 body {
   background-image: url("images/Header bg@2x.png");
-height: 718px;
-width: 375px;
-left: 0px;
-top: 0px;
-border-radius: [object Object]px;
+  height: 718px;
+  width: 375px;
+  left: 0px;
+  top: 0px;
+  border-radius: [object Object]px;
 
 
 }
@@ -26,24 +26,24 @@ border-radius: [object Object]px;
 }
 h1{
   font-family: 'Poppins', sans-serif;
-font-style: normal;
-font-weight: bold;
-font-size: 48px;
-line-height: 60px;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 48px;
+  line-height: 60px;
 
 }
 p{
 
-font-family: Poppins;
-font-size: 16px;
-font-style: normal;
-font-weight: 400;
-line-height: 24px;
-letter-spacing: 0em;
-text-align: left;
-max-width: 300px;
-margin:0 auto;
-}
+  font-family: Poppins;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 24px;
+  letter-spacing: 0em;
+  text-align: left;
+  max-width: 300px;
+  margin:0 auto;
+  }
 .flex-center{
   display: flex;
   flex-direction: column;
