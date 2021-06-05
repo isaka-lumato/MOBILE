@@ -17,8 +17,8 @@
   },
   "homepage": "https://github.com/isaka-lumato/MOBILE#readme",
   "devDependencies": {
-    "stylelint": "^9.3.0",
-    "stylelint-config-standard": "^18.3.0",
+    "stylelint": "^13.13.1",
+    "stylelint-config-standard": "^21.0.0",
     "stylelint-csstree-validator": "^1.9.0",
     "stylelint-scss": "^3.19.0"
   }
