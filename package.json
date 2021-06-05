@@ -1,0 +1,25 @@
+{
+  "name": "mobile",
+  "version": "1.0.0",
+  "description": "> This template should be used for database related projects at Microverse. > Generate your own repository, update this README and edit all files content while working on projects. You should not be adding any new files unless asked otherwise.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/isaka-lumato/MOBILE.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/isaka-lumato/MOBILE/issues"
+  },
+  "homepage": "https://github.com/isaka-lumato/MOBILE#readme",
+  "devDependencies": {
+    "stylelint": "^9.3.0",
+    "stylelint-config-standard": "^18.3.0",
+    "stylelint-csstree-validator": "^1.9.0",
+    "stylelint-scss": "^3.19.0"
+  }
+}
